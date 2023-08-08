@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-koroko-oke.github.io/sko-1/sitemap.xml
